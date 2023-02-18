@@ -1,0 +1,19 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksana796/learn-git-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oksana796/learn-git-repo/issues"
+  },
+  "homepage": "https://github.com/Oksana796/learn-git-repo#readme"
+}
